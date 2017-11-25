@@ -1,2 +1,2 @@
 # Misc-Arduino
-Several arduino sketches for different stuff
+Arduino sketches for different stuff
